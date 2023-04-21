@@ -8,13 +8,13 @@
 
 ### freecodecamp.org - Javascript Algorithms & Data Structures
 
-![Javascript Algorithms & Data Structures](/2.png)
+![Javascript Algorithms & Data Structures](/freecodecamp-algorithms.png)
 
 ---
 
 ### freecodecamp.org - Front End Development Libraries
 
-![Front End Development Libraries](/3.png)
+![Front End Development Libraries](/freecodecamp-frontend-libraries.png)
 
 ---
 
