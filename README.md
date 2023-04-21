@@ -2,7 +2,7 @@
 
 ### freecodecamp.org - Responsive Web Design
 
-![Responsive Web Design](/1.png)
+![Responsive Web Design](/freecodecamp-rwd.png)
 
 ---
 
